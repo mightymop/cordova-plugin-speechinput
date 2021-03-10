@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-startintent",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-startintent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "types": "./types/index.d.ts"
+}
