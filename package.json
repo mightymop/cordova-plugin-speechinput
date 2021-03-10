@@ -1,8 +1,8 @@
 {
-  "name": "cordova-plugin-startintent",
+  "name": "cordova-plugin-speechinput",
   "version": "1.0.0",
   "cordova": {
-    "id": "cordova-plugin-startintent",
+    "id": "cordova-plugin-speechinput",
     "platforms": [
       "android"
     ]
